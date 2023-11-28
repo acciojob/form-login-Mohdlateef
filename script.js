@@ -5,5 +5,5 @@ var value=document.getElementById("form1")
 	var last=value.elements["lname"].value;
 	// var combine=first +"/n"+last;
 	// alert(combine);
-	alert(first+"\n"+last);
+	alert(first+" "+last);
 }
